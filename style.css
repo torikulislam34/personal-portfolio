@@ -1,0 +1,73 @@
+h1{
+    font-size: 50px;
+}
+.crim-highlight{
+    color: crimson;
+}
+.half-width{
+    float: left;
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    margin-top: 2%;
+}
+.half-width img{
+width: 80%;
+}
+.top-banear{
+    background-image: url("images/top.jpg.webp");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+}
+body{
+    margin: 0;
+}
+.link-botton{
+    background-image: linear-gradient(tomato, blue );
+    text-decoration: none;
+    padding: 10px 7px;
+    border-radius: 20%;
+    color: whitesmoke;
+}
+.header-1{
+    text-align: center;
+    color: rgb(11, 189, 248);
+    margin-top: 0;
+}
+.link-bottom{
+    text-decoration: none;
+    background-image: linear-gradient(red,tomato);
+    padding: 15px 10px;
+    border-radius:15%;
+    color: whitesmoke;
+}
+.secound-banear{
+    background-image: url("images/set.jpg.webp");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.single-block{
+    box-shadow: 20px 20px 50px gray;
+    border-radius: 7%;
+    height: 50%;
+    background-color: white;
+}
+.experience-area{
+    background-image: url("images/last.jpg.webp");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#full-stack{
+    border-left: 7px solid blue;
+    border-right: 7px solid brown;
+
+}
+#pro-web{
+    border-left: 7px solid crimson;
+    border-right: 7px solid tomato;
+}
+footer p{
+    text-align: center;
+}
